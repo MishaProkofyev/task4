@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1589997942 source:f:\2_semestr\task4\main.cpp
-	<iostream>
-	<cstdlib>
-	<fstream>
-
